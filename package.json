@@ -1,0 +1,14 @@
+{
+  "name": "header-parser-ms",
+  "version": "1.0.0",
+  "description": "Microservice that gets ip-address, language, and os of browser",
+  "main": "app/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patrick San Juan <psj.webdev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
